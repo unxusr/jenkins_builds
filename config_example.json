@@ -1,0 +1,6 @@
+{
+	"jenkins_server":"YOUR-JENKINS-URL",
+	"jenkins_username":"YOUR-USERNAME",
+	"jenkins_password": "YOUR-JENKINS-PASSWORD"
+
+}
